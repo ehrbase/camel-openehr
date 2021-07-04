@@ -17,6 +17,7 @@
     <modules>
         <module>camel-openehr-aql</module>
         <module>camel-openehr-composition</module>
+        <module>camel-openehr-ehr</module>
     </modules>
 
     <properties>
